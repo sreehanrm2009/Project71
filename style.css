@@ -1,0 +1,98 @@
+body {
+  text-align: center;;
+  background-color: #00FFFF;
+  font-family: "Segoe UI" !important;
+}
+
+nav {
+  background-color: #A52A2A !important;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.campuslife_mainDiv {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  border: 1px solid #C7C7C7;
+}
+
+.campuslife_mainDiv img {
+  width: 100%;
+  height: 300px;
+}
+
+.campuslife_mainDiv hr {
+  width: 100%;
+}
+
+.campuslife_mainDiv h5, .campuslife_mainDiv p {
+  margin-left: 20px;
+}
+
+#achievementsid {
+  padding-bottom: 10px;
+}
+
+.achievements_head {
+  background-color: #9ACD32 !important;
+  font-size: 20px;
+  padding: 6px 22px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  width: 100%;
+  display: inline-block;
+}
+
+.achievements_head i {
+  float: right;
+}
+
+.whatsnew-li {
+  margin-top: 13px;
+}
+
+.whatsnew-li h4 {
+  border-bottom: 1px solid #FFF;
+  padding: 8px;
+}
+
+.whatsnew-li img {
+  border-radius: 25px;
+}
+
+.whatsnew-li p {
+  margin-top: 10px;
+}
+
+.aluminus {
+  cursor: pointer;
+}
+
+.aluminus hr {
+  margin-bottom: 10px;
+}
+
+.modal-content {
+  margin-top: 100px;
+}
+
+.img_modal {
+  display: inline-block;
+}
+
+.p_modal {
+  margin-top: 10px;
+}
+
+.modal-body {
+  text-align: center;
+}
+
+.aluminus img {
+  height: 100px;
+}
